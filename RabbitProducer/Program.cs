@@ -9,6 +9,7 @@ namespace RabbitProducer
         {
             //amqps://qomplsaj:O4cvZm1wTw0hGOI5cTN-J1LPHmcSj3BK@sparrow.rmq.cloudamqp.com/qomplsaj
             ConnectionFactory factory = new ConnectionFactory();
+            //amqps://qomplsaj:O4cvZm1wTw0hGOI5cTN-J1LPHmcSj3BK@sparrow.rmq.cloudamqp.com/qomplsaj
             factory.Uri = new Uri(@"amqps://qomplsaj:O4cvZm1wTw0hGOI5cTN-J1LPHmcSj3BK@sparrow.rmq.cloudamqp.com/qomplsaj");
 
             using (IConnection connection = factory.CreateConnection())

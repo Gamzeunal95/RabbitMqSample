@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33209.295
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitProducer", "RabbitProducer\RabbitProducer.csproj", "{D20D3527-6459-4D65-B832-5E312DBCCE90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitConsumer", "RabbitConsumer\RabbitConsumer.csproj", "{AB864479-FD04-441D-B6F8-C1930478EB4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D20D3527-6459-4D65-B832-5E312DBCCE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D20D3527-6459-4D65-B832-5E312DBCCE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D20D3527-6459-4D65-B832-5E312DBCCE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB864479-FD04-441D-B6F8-C1930478EB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB864479-FD04-441D-B6F8-C1930478EB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB864479-FD04-441D-B6F8-C1930478EB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB864479-FD04-441D-B6F8-C1930478EB4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
