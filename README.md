@@ -6,6 +6,7 @@ RabbitMQ Publisher and Consumer
 - İki farklı dillerle yazılımş projeleri nasıl birbiri ile haberleştiririz.Bu ortak bir kaynağa veri atmak ile ilgili
 - Redis hafızada çalışıyor RabbitMQ diske de kaydediyor.
 - Mesajlaşma protokoli
+- **Apache Kafka** rabbitmq'nun alternatifi
 
 - FiFo (First İn First Out)
 
