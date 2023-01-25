@@ -7,6 +7,7 @@ RabbitMQ Publisher and Consumer
 - Redis hafızada çalışıyor RabbitMQ diske de kaydediyor.
 - Mesajlaşma protokoli
 - **Apache Kafka** rabbitmq'nun alternatifi
+- Windows'un kendi içinde MSMQ (Microsof Message Queue) ile de rabbitmq da yaptığımızı yapabiliriz.
 
 - FiFo (First İn First Out)
 
