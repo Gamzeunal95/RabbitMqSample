@@ -31,5 +31,5 @@ RabbitMQ Publisher and Consumer
 - Cloudamqp [sitesinden](https://customer.cloudamqp.com/login ) oluşturduğumuz kuyruğun URL'i program.cs'e eklendi. (KuyrukAdı:Gamze)
 
 
-[logları görmek için](https://api.cloudamqp.com/console/8d8b1af1-d2ab-42e6-a060-892f826d3d1b/details)
-[queues](https://sparrow.rmq.cloudamqp.com/#/queues)
+- [logları görmek için](https://api.cloudamqp.com/console/8d8b1af1-d2ab-42e6-a060-892f826d3d1b/details)
+- [queues](https://sparrow.rmq.cloudamqp.com/#/queues)
