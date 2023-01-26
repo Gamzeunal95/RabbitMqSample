@@ -5,7 +5,7 @@ RabbitMQ Publisher and Consumer
 - Microservice'ler ile ilgili son dönemde 
 - İki farklı dillerle yazılımş projeleri nasıl birbiri ile haberleştiririz.Bu ortak bir kaynağa veri atmak ile ilgili
 - Redis hafızada çalışıyor RabbitMQ diske de kaydediyor.
-- Mesajlaşma protokoli
+- Mesajlaşma protokolü
 - **Apache Kafka** rabbitmq'nun alternatifi
 - Windows'un kendi içinde MSMQ (Microsof Message Queue) ile de rabbitmq da yaptığımızı yapabiliriz.
 
