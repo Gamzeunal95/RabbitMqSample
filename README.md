@@ -19,13 +19,13 @@ RabbitMQ Publisher and Consumer
 - https://medium.com/ltunes/k%C4%B1demli-tav%C5%9Fan-rabbitmq-4c65b03f95c9
 - https://feyyazacet.medium.com/rabbitmq-exchange-types-net-core-ile-giri%C5%9F-e1c20ff8d947
 
-# RabbitProducer   (Bu publisher - Mesaj gönderebilinmesi için)
+# RabbitProducer   (Publisher - Mesaj gönderilebilmesi için)
 - Aşağıdaki nugget paketler install edildi.
 	- RabbitMQ.Client
 - Cloudamqp [sitesinden](https://customer.cloudamqp.com/login ) oluşturduğumuz kuyruğun URL'i program.cs'e eklendi. (KuyrukAdı:Gamze)
 - Queues kısmından "mesaj kuyruğu" adında olustruduğumuz kısma gelen mesajları görebiliriz..
 
-# RabbitConsumer (Bu consumer- Gelen mesajaları okuyabilmek için)
+# RabbitConsumer (Consumer- Gelen mesajları okuyabilmek için)
 - Aşağıdaki nugget paketler install edildi.
 	- RabbitMQ.Client
 - Cloudamqp [sitesinden](https://customer.cloudamqp.com/login ) oluşturduğumuz kuyruğun URL'i program.cs'e eklendi. (KuyrukAdı:Gamze)
